@@ -1,0 +1,23 @@
+# using the tools we've learned in class 
+# up to this point create blocks of code that will return 
+# (you can use variables, data types,operators,etc.)
+
+# 1. create a block of code that uses any of the arithmatic 
+# operator and then print out the result
+
+# 2. create a block of code that uses uses the AND operstor and a
+# print out the result.
+
+# 3. create a block of code that uses the NOT EQUAL operator
+# use then print out the result
+ # inputalways trnasforms the data into strings.
+ # we use int() function to change strings into numbers
+ 
+ # number_A = int(input)('enter a number)
+ # number_8 =int(input)('enter another number')
+
+ Fruit A = 'apples'
+ Fruit B = 'oranges'
+ print(fruit_A != fruit_B)
+
+
