@@ -19,5 +19,3 @@
  Fruit A = 'apples'
  Fruit B = 'oranges'
  print(fruit_A != fruit_B)
-
-
