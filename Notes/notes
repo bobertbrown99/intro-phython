@@ -18,3 +18,12 @@
 # the IF/ELSE keywords are functions that have 
 # been abstracted to make it easier for 
 # engineers to use logic
+
+# C = 70 and up
+# D = 60 and up 
+# F = 59 and up
+# Keywords and Clues
+# generate a letter grade from a number = Enter a number
+# and then send out a letter
+
+# we need to use conditional statements (IF/ElSE/ELIF)
