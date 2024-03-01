@@ -1,0 +1,20 @@
+#Q What is complexity"
+#A The measure of resources a program uses.
+
+#Q What is abstarction?
+#A The process of simplifying or hiding complexity.
+
+#Q What is a Variable?
+#A a container for data
+
+#complexities refer to the amount of time and resources required to execute an algorithm or perform a certain operation
+
+#conditional statement = is a consturct that evaluates
+#different code conditions and outputs specific outcomes.
+
+'evaluate specific conditions'
+'and will output specific outcomes'
+
+# the IF/ELSE keywords are functions that have 
+# been abstracted to make it easier for 
+# engineers to use logic
