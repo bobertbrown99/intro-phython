@@ -9,12 +9,11 @@ import random
 
 # 2. Create a loop that will iterate over a list of numbers. For evey number in your loop,
 # it should multiply that number by 3. 
-numbers = [1,2,3,4,5]
+numbers = [1, 2, 3, 4, 5]
 
 for num in numbers[:]:
-    num *=3
-    print(num)
-
+     num *= 3
+     print(num)
 # 3. Use the following code snippet below to create a guessing game function. 
 # The code below will generate a random number for you. You must write a loop that will
 # ask the user to input their guess, if they guess incorrectly, the program will repeat 
