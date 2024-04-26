@@ -29,4 +29,4 @@
 #ans:since im a vocal listener i feel like i should listen to video while doing 
 #my work so i can get a better feel for the skills im trying to learn
 #and also i feel like i could listen to music at the same time so that
-#i can really listen up to the person talking so i can be a better study person
+#i can really listen up to the person talking so i can be a better study person/
